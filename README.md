@@ -1,4 +1,5 @@
-# udemy_esp32
-Udemy IoT Application Development with the ESP32 Using the ESP-IDF Course Repository
+# COARAMAUSE TCP CLIENT
 
-https://www.udemy.com/course/iot-application-development-with-the-esp32-using-the-esp-idf/
+Esp32 (esp-idf IS USED) PROJECT
+
+
